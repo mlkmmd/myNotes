@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "myNotes",
+    "slug": "mynotes-azienda",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#2E3A59"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.azienda.mynotes"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#2E3A59"
+      },
+      "package": "com.azienda.mynotes"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
