@@ -68,6 +68,8 @@ const styles = StyleSheet.create({
     },
     shadowOpacity: 0.1,
     shadowRadius: 3.84,
+    borderLeftWidth: 3,
+    borderLeftColor: COLORS.accent,
   },
   header: {
     flexDirection: 'row',
